@@ -2,14 +2,33 @@
 
 In a Korean Drama called [Doctor Romantic](https://www.youtube.com/watch?v=3FFcjNsuKMo&list=RD3FFcjNsuKMo&start_radio=1) (2016), Dr. Yoon Seo-jung suffers from PTSD caused by a past accident, which triggers hyperarousal and seizures whenever she enters an operating room or sees blood or surgical instruments. She often becomes trapped in traumatic memories and runs out of the operating room. However, after meeting her mentor, Dr. Kim Sabu, she gradually learns to confront herself again. Eventually, she participates in a large and critical surgery, symbolizing her triumph over trauma. The OST “Hope of Hospital” is a rock-based track featuring elegant strings and an appealing guitar riff. Composed by Ahn Soo-wan and Jeon Chang-yeop, it was released in 2017 as a theme song representing hope within the hospital. At the moment when Yoon Seo-jung focuses on surgery and overcomes the fears of her past, the signature melody of “Hope of Hospital” begins to play, symbolizing her psychological transition from fear to hope. For example, while previous episodes showed Yoon Seo-jung running out of the operating room due to her unresolved PTSD, this time the track underscores her journey as she confronts and ultimately overcomes her limits, successfully completing the surgery. The dramatic and resolute melody, together with the powerful guitar riff, heightens the emotional impact of her recovery and transformative arc.
 
+The inserted image intuitively reveals Yoon Seo-jung’s inner turmoil. Despite her own will, a tangle of emotions and memories tied to past trauma prevents her from fully overcoming it. At the same time, her desire to break free gently emerges through the flowers, the bright light, and the green garden floor on the right side of the image. Among these two conflicting emotions, it is the will to grow and overcome that ultimately prevails, leading Yoon Seo-jeong to complete the surgery successfully. 'Hope of Hospital' is the piece of music that captures this moment most accurately.
+
 Similarly, “My Time,” the ending theme of [OMORI](woo-seunghun.md) (2020), is a piece that sonically embodies trauma and psychological collapse. On the surface, the song features a bright and cheerful electronic pop melody, yet it plays during the scene in which the protagonist fails to overcome his past wounds and guilt, ultimately falling into despair. “My Time” uses a deceptively upbeat synth tone layered with a repetitive, almost mechanical beat that gradually destabilizes; this rhythmic disintegration foreshadows the breakdown that later erupts into glitch noise. The lyric “Close your eyes... Oyasumi” symbolizes a distorted sense of comfort that frames death as a form of rest, while the gradual breakdown of the melody into glitch-like noise in the latter half of the track audibly represents the process of the self being destroyed by trauma. Both works portray an inner journey of confronting or evading trauma through music; however, while Yoon Seo-jung’s story moves toward healing and recovery, OMORI concludes with collapse and hopelessness, presenting a starkly contrasting emotional trajectory.
 
 
 <img src="./kim-haena.png" alt="Abstract image of PTSD" width="300" height="400" />
 
 
+
+# Music I Hope to Be Played at My Funeral
+
+Kihyun’s song [Youth](https://youtu.be/NxzawQKdqzM?si=uvJJdboUir-J7Tsi) carries an energy from the very first guitar riff that makes you feel as if you could start running, evoking the image of youth striving toward its goals. The song captures the complex emotions of youth—where confusion and hope coexist—and it reminds me of both the hardships and the joys in my own life. I want this song played at my funeral because it is the most honest reflection of the time I’ve spent growing amidst excitement and uncertainty. The song is infused with the kind of inner conflict of growth and youth that anyone can relate to. Not only the lyrics but also the music itself conveys this journey—from the hopeful guitar riff at the beginning to the “woah–oh–oh” section in the latter half of the chorus, which bursts out like an expression of pent-up frustration and worry. In the final part of the track, the guitar riff settles into a calmer tone, acknowledging that all these conflicts are a natural part of life and ultimately concluding with the sense that everything will turn out alright. To me, this song is like my final portrait, a condensed journey of shaping myself while moving through pain.
+
+
 # 낭만닥터 김사부
 
 드라마 [낭만닥터 김사부](https://www.youtube.com/watch?v=3FFcjNsuKMo&list=RD3FFcjNsuKMo&start_radio=1) (2016)에서 의사 윤서정은 과거 사고 트라우마로 인해 수술실에 들어가거나, 피 혹은 수술용 메스를 볼 때마다 PTSD로 인한 과각성 상태와 발작을 일으키거나 과거 기억에 사로잡혀 수술실을 뛰쳐나가곤 한다. 그러나 스승인 김사부를 만나며 그는 점차 자신을 다시 직면하는 법을 배우고, 결국에는 규모가 크고 중요한 수술에 참여하며 트라우마를 극복하는 모습을 보여준다. 결국 윤서정은 상처를 안고도 성장하는 모습을 통해 인간적 회복과 치유의 의미를 보여준다. 윤서정이 더 이상 수술실에서 발작을 일으키지 않고 용기있게 수술을 잘 해내는 장면에서 흐르는 OST Hope of Hospital 은 윤서정의 내면 변화를 감정적으로 극대화한다. OST 'Hope of Hospital'은 락을 기반으로 유려한 스트링과 기타의 리프가 매력적인 곡으로 병원 안에서의 희망을 표현하는 테마 곡으로, 안수완, 전창엽이 작곡하였으며 2017년 발매되었다. 윤서정이 수술에 집중하며 과거의 공포를 이겨내는 순간, ‘Hope of hospital’의 대표적 멜로디가 등장하며, 이는 윤서정이 공포에서 희망으로 나아가는 심리적 전환점을 상징한다. 예를 들어, 이전 에피소드에서 PTSD를 이기지 못해 수술실에서 뛰쳐나오던 윤서정에서 자신의 한계를 극복해 나가는 과정, 그리고 결국 극복하여 수술을 완벽하게 해내는 장면에서 극적이고 결정적인 멜로디와 강렬한 기타 리프와 함께 배경으로 흐르며 그녀의 드라마틱한 여정과 회복을 더욱 부각한다.
 
+또한, 삽입된 이미지는 윤서정의 내면 갈등을 직관적으로 드러낸다. 본인의 의지와는 달리, 과거의 트라우마를 극복하지 못하게 만드는 다양한 감정과 기억들이 뒤엉켜 있으며, 동시에 이를 이겨내려는 의지가 오른쪽에 자리한 꽃과 환한 빛, 그리고 초록빛 정원 바닥을 통해 은은하게 드러난다. 이 상반된 두 감정 사이에서, 성장하며 극복하려는 의지가 결국 승리해 수술실에서 수술을 성공적으로 마친 윤서정을 보여주는 음악이 바로 'Hope of Hospital'이며, 이 장면을 가장 잘 대변한다.
+
 비슷하게, [OMORI](woo-seunghun.md) (2020)의 엔딩곡 My Time 역시 트라우마와 내면 붕괴를 음악으로 표현한 작품이다. 이 곡은 겉보기에는 밝고 경쾌한 일렉트로닉 팝 멜로디를 띠지만, 주인공이 과거의 상처와 죄책감을 이기지 못하고 절망에 빠지는 장면에서 재생된다. 특히 이 곡은 경쾌한 신스와 반복적인 비트가 점차 흔들리고 일그러지는 음향적 변형을 통해, 표면의 밝음 아래서 내부의 균열이 서서히 확장되는 느낌을 만들어낸다. “Close your eyes... Oyasumi(눈을 감아... 잘 자)”라는 가사는 죽음을 휴식처럼 포장하는 왜곡된 긍정을 상징하며, 곡의 후반부에서 멜로디가 점차 글리치 노이즈처럼 붕괴되는 구조는 트라우마가 자아를 무너뜨리는 과정을 청각적으로 보여준다. 두 작품 모두 음악을 통해 인물의 트라우마를 직면하거나 회피하는 내면의 여정을 그리지만, 윤서정의 이야기가 치유와 회복으로 나아가는 반면, OMORI는 붕괴와 절망으로 끝난다는 점에서 상반된 정서를 보여준다.
+
+
+<img src="./kim-haena.png" alt="Abstract image of PTSD" width="300" height="400" />
+
+
+
+# 장례식에서 연주되길 희망하는 음악 
+
+기현의 [Youth](https://youtu.be/NxzawQKdqzM?si=uvJJdboUir-J7Tsi) 라는 곡은 기타 리프에서부터 달려나가고 싶은 에너지가 느껴져, 목표를 향해 노력하는 청춘의 이미지가 연상된다. 이 곡은 방황과 희망이 공존하는 청춘의 복잡한 감정을 담고 있어 내 삶의 어려움과 기쁨을 동시에 함께 기억하게 한다. 장례식에서 이 노래를 틀고 싶은 이유는 설렘과 불안 속에서도 성장해온 나의 시간을 가장 솔직하게 대변하는 음악이기 때문이다. 누구나 공감할 수 있는 성장과 청춘의 내적 갈등이 이 곡 전반에 녹아 있다. 가사뿐 아니라, 초반의 희망을 담은 기타 리프에서부터 후렴 후반부에 내면의 답답함과 고민을 토해내듯 울려 퍼지는 ‘워어어어’ 구간까지, 감정의 흐름이 생생하게 드러난다. 또한 곡의 후반부에서는 기타 리프가 잔잔히 가라앉으며, 모든 갈등이 자연스러운 과정임을 받아들이고 결국 잘해내고 있다는 듯한 결론으로 마무리된다. 이 곡은 고통을 지나며 스스로를 만들어가는 삶의 여정을 압축한 나의 마지막 초상 같은 노래다.

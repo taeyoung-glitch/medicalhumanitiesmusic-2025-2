@@ -17,8 +17,20 @@ Violeta in the opera La Traviata and Mimi in [La Bohème](xu-yangyang.md) are bo
 <img src="./woo-yerin.png" alt="description" style="width:40%;" />
 
 # 라 트라비아타
+
 오페라 라 트라비아타는 주세페 베르디(1813~1901)가 작곡한 오페라이다. 비올레타는 사교계의 인기 있는 무희로, 알프레도와 진정한 사랑에 빠진다. 두 사람은 사회적 편견과 알프레도의 아버지의 반대 때문에 갈등을 겪는다. 결국 비올레타는 알프레도의 가족을 위해 희생적으로 그와 이별하고, 마지막에는 폐병으로 생을 마감한다. 이들은 다시 재회하지만 그녀의 죽음 앞에 알프레도는 뒤늦게 진심을 깨닫는다.
 
 비올레타의 마른 체구와 창백한 피부, 기침과 각혈, 그리고 전신쇠약감이 동반되다가 사망하는 양상을 볼 때, 그녀의 사망 원인은 폐결핵으로 생각해볼 수 있다. 비올레타는 이야기 내내 창백한 피부, 마른 체구, 잦은 기침과 각혈, 활력이 없는 모습을 보이며 점차 쇠약해진다. ‘라 트라비아타’에서는 병의 고통을 음악적으로 섬세하게 표현하기 위해 선율, 악기의 선택, 템포와 조성 변화를 적극적으로 활용했다. 3막 [‘Addio del passato(지난날이여, 안녕)’](https://youtu.be/Vt5gFBP9s-w?si=REfAAaVg6-j_dtGi)에서 느린 템포와 낮은 음역, 오보에 선율이 죽음을 앞둔 비올레타의 고통, 절망, 체념을 깊이 있게 표현한다. 2막과 3막에서 비올레타의 아리아는 짧은 호흡, 단조로운 리듬, 끊기는 듯한 프레이징으로 그녀의 쇠약한 육체와 병의 고통을 직접적으로 드러낸다. 비올레타가 앓는 치유 불가능한 병은 19세기 파리 사교계 여성, 특히 하층 계급 여성의 사회적 소외와 불안을 상징한다. 그녀의 질병과 죽음은 사회 규범과 편견의 희생자이자, 사회의 주변으로 밀려난 여성 존재의 운명을 함축한다.
 
 오페라 라 트라비아타의 비올레타와 [라 보엠](xu-yangyang.md)의 미미는 모두 폐병(결핵)으로 죽음을 맞이하는 비극적 여주인공이지만, 그들의 병은 각각 다른 사회적 의미와 감정적 색채를 지닌다. 비올레타의 병은 화려한 사교계의 허무와 사랑을 위해 희생된 한 여성의 비극을 상징한다면, 미미의 병은 가난한 예술가들의 현실 속에서 피어나는 순수한 사랑의 덧없음을 드러낸다. 비올레타의 죽음이 사회적 위선과 사랑의 구원을 함께 보여주는 ‘도덕적 비극’이라면, 미미의 죽음은 청춘의 이상과 현실의 잔혹함이 교차하는 ‘서정적 비극’이다. 결국 두 인물 모두 병을 통해 사랑의 진실함을 드러내지만, 비올레타는 세속의 희생 속에서, 미미는 청춘의 순수 속에서 그 사랑을 완성한다.
+
+
+
+# Don't Stop Me Now - Queen
+
+I want to play Queen's ['Don't Stop Me Now'](https://youtu.be/HgzGwKwLmgM?si=SbtJeaamEcYOd4_a) at my funeral. This song isn't just an upbeat rock number; it's also a prime example of the narrative of illness and music. Freddie Mercury, despite suffering from HIV, expressed the vitality of life and freedom of existence on stage through music. His songs demonstrate the power of sublimating personal pain into artistic energy while not hiding it. This provides an answer to the question at the heart of Week 5's discussion: "Can pain be expressed through music?" Furthermore, it symbolizes the fact that even a short life, lived with a fiery passion, can endure through the art of music. I chose this song for my funeral because I hope it won't be a place to simply acknowledge sadness, but to remember the vibrant moments we shared together and find the strength to live again. I hope those who remain will attend my funeral with joyful memories rather than a sense of loss.
+
+
+# Don't Stop Me Now - Queen
+
+나는 나의 장례식에서 퀸(Queen)의 ['Don’t Stop Me Now'](https://youtu.be/HgzGwKwLmgM?si=SbtJeaamEcYOd4_a)를 틀고 싶다. 이 곡은 단순히 신나는 록 넘버가 아니라, 질병과 음악의 서사를 대표적으로 보여주는 사례이기도 하다. 프레디 머큐리는 HIV를 앓으면서도 무대 위에서 삶의 생동감과 존재의 자유를 음악으로 표현했고, 그의 노래는 개인의 고통을 숨기지 않으면서도 그것을 예술적 에너지로 승화시키는 힘을 보여준다. 이는 5주차 논의의 중심이었던 “고통은 음악으로 표현될 수 있는가”라는 질문에 대한 답을 제공한다. 또한, 짧은 삶이라도 끝까지 불꽃처럼 살아낸 흔적은 음악이라는 예술을 통해 오래 지속된다는 사실을 상징한다. 내가 이 곡을 장례식에 선택한 이유는, 장례식이 슬픔만을 확인하는 자리가 아니라 함께 보낸 시간의 생동감을 기억하고 다시 살아갈 힘을 얻는 자리가 되기를 바라기 때문이다. 남은 사람들은 상실감보다는 즐거웠던 기억을 떠올리며 내 장례식에 참석해주었으면 한다.

@@ -26,17 +26,20 @@ ________________________________________
 reflection on how music portrays disability
 
 
-The film’s score—particularly the rain is pouring down[the rain is pouring down](https://www.youtube.com/watch?v=YVt3sbRuESo&list=RDYVt3sbRuESo&start_radio=1)—avoids exaggerated sentimentality, relying instead on minimal piano lines and repeating string patterns played by violins and cellos. These repetitive motifs mirror Hyung-jin’s consistent behavioral patterns while revealing the subtle emotional layers beneath his outward simplicity.
+The film’s score—particularly The Rain Is Pouring Down—avoids exaggerated sentimentality, relying instead on minimal piano lines and repeating string patterns played by violins and cellos. These repetitive motifs mirror Hyung-jin’s consistent behavioral patterns while revealing the subtle emotional layers beneath his outward simplicity. This musical design becomes especially vivid in the early training scene where Hyung-jin runs around the schoolyard at a steady, almost mechanical pace. The looping melody aligns with the rhythmic sound of his footsteps, visually and sonically blending his autistic traits with the disciplined structure of running itself.
 
-This musical design becomes especially vivid in the early training scene where Hyung-jin runs around the schoolyard at a steady, almost mechanical pace. The looping melody aligns with the rhythmic sound of his footsteps, visually and sonically blending his autistic traits with the disciplined structure of running itself.
-
-During the marathon sequence, The Rain Is Pouring Down shifts into a gradual crescendo of strings. As the camera follows Hyung-jin’s focused gaze and unwavering stride, the rising violin lines sonically express his inner growth—his ability to maintain his own rhythm despite the surrounding noise, crowds, and pressure. Here, repetition is not a sign of limitation but a source of strength, reflecting how he interprets the world through consistency and pattern.
+During the final marathon sequence, the score gradually intensifies as the strings rise in slow, deliberate waves, drawing the audience closer to Hyung-jin’s inner world. The surrounding cheers, bursts of noise, and shifting pace of other runners continuously press against him, yet he remains anchored in his own rhythm, guided by a sensory tempo that never wavers. The ascending lines of the music illuminate the way he maintains personal order amid external chaos, transforming repetition from a sign of limitation into a source of strength. Here, Hyung-jin’s perceptual world not only withstands the pressure of the environment but becomes the steady axis around which the narrative turns.
 
 Through this approach, the soundtrack does not romanticize disability as something to be overcome. Instead, it respects autism as a distinct rhythm—a steady, self-contained, yet deeply expressive world that the film reveals through both musical and visual language.
 
 In another film dealing with autism spectrum disorder, [Rain man](kim-shin.md) music is used in a different way. In Rain Man, music serves as a key medium for expressing the inner world of Raymond, a man with autism. Composer Hans Zimmer uses steady rhythms and repetitive electronic sounds to sonically portray Raymond’s distinctive way of perceiving reality. In particular, the piece Las Vegas Theme symbolizes his thought patterns and emotional flow through its consistent yet subtly evolving beats, reflecting his sense of order and calm amid the chaos of the external world. Rather than emphasizing emotional ups and downs, the music focuses on repetition and balance, allowing the audience to experience Raymond’s sensory logic firsthand. This approach presents autism not as a deficiency but as a different way of understanding the world, revealing the quiet beauty and human warmth that lie within his unique perception.
 
 <img src="./rho-taegang.jpg" alt="description" style="width:25%;" />
+
+# How Long Will I Love You(Ellie Goulding)
+I would like [How Long Will I Love You by Ellie Goulding](https://www.youtube.com/watch?v=an4ySOlsUMY&list=RDan4ySOlsUMY&start_radio=1) to be played at my funeral.
+This song carries a message of love that lasts through the passage of time, the turning points of life, and even beyond the end of one’s lifetime. Its warm and gentle melody offers quiet comfort in a moment of farewell, and it expresses the feelings I’ve always hoped to convey to the people who were part of my life—gratitude, affection, and an enduring sense of connection. Instead of dwelling on sadness, the song softly reminds us that the time we shared was beautiful, making it feel like the most fitting piece to accompany my final goodbye.
+
 
 # 말아톤 (marathon)
 
@@ -61,5 +64,10 @@ ________________________________________
 이 음악적 특징은 초반 훈련 장면에서 더욱 선명하게 드러난다. 형진이 운동장을 일정한 호흡과 속도로 계속 달릴 때, 반복되는 선율이 그의 규칙적인 발걸음과 정확히 맞물리며 ‘자폐적 특성’과 ‘마라톤이라는 행위의 속성’을 하나의 감각적 리듬으로 결합한다. 화면 속 그의 반복적 움직임이 음악의 순환적 구조와 일치하면서, 형진이 세계와 소통하는 방식이 자연스럽게 드러난다.
 
 마라톤 본경기 장면에서는 the rain is pouring down의 현악기가 서서히 고조된다. 주변의 소음, 사람들의 응원, 경쟁자들의 속도와 상관없이 형진이 자신의 리듬을 잃지 않는 모습이 카메라의 집중된 시선과 함께 음악의 상승선율로 표현된다. 이때 반복은 제약이 아니라 힘이며, 세상을 자신만의 질서로 이해하는 그의 독특한 방식이 오히려 서사의 중심이 된다.
+마라톤 본경기 장면에서 음악은 서서히 고조되는 현악기의 흐름을 따라 형진의 내면으로 깊숙이 들어간다. 외부의 함성, 주변 소음, 경쟁자들의 페이스 변화가 끊임없이 그의 리듬을 흔들어 놓지만, 형진은 어디에도 동요하지 않고 자신의 감각적 속도와 호흡을 유지한다. 음악의 상승하는 선율은 그가 혼란 한가운데서도 자기만의 질서를 지켜내는 방식을 선명하게 드러내며, 반복되는 동기들은 더 이상 제약이나 경직된 패턴이 아니라 그가 세계를 해석하는 힘의 원천으로 변모한다. 이 장면에서 음악과 카메라의 시선은 형진의 감각 세계가 어떻게 외부의 압력 속에서도 무너지지 않고 오히려 서사를 이끌어가는 중심축이 되는지를 조용하고도 단단하게 보여준다.
 
 자폐스펙트럼 장애를 다루는 또 다른 영화인 [Rain man](kim-shin.md)에서는 음악이 다른 방식으로 사용된다.‘레인맨’에서는 음악이 자폐를 가진 인물 레이먼드의 내면세계를 섬세하게 드러내는 핵심 표현 수단으로 사용된다. 작곡가 한스 짐머는 일정한 리듬과 반복적인 전자음을 통해 레이먼드가 세상을 인식하는 방식을 청각적으로 형상화했다. 특히 「Las Vegas Theme」의 규칙적이면서도 점진적으로 변하는 비트는 그의 사고 패턴과 정서의 미묘한 흐름을 상징하며, 외부 세계의 혼란 속에서도 자신만의 질서와 안정감을 유지하는 레이먼드의 세계를 보여준다. 음악은 감정의 기복보다 반복과 균형을 중심으로 구성되어 있어, 관객이 레이먼드의 감각적 질서를 직접 체험하도록 만든다. 이러한 방식은 자폐를 결핍으로 묘사하기보다, 세상을 다른 시각으로 인식하는 한 인간의 고유한 아름다움을 전달하며, 영화 전체에 잔잔한 따뜻함과 인간적 깊이를 더한다.
+
+# How Long Will I Love You(Ellie Goulding)
+저는 제 장례식에 [Ellie Goulding의 How Long Will I Love You](https://www.youtube.com/watch?v=an4ySOlsUMY&list=RDan4ySOlsUMY&start_radio=1)를 틀고 싶습니다.
+이 곡은 한 사람을 향한 사랑이 시간의 흐름, 인생의 변곡점, 심지어 생의 끝까지도 이어진다는 메시지를 담고 있습니다. 따뜻하면서도 담담한 멜로디가 인생을 마무리하는 순간에 부드러운 위로를 건네고, 제가 살아온 시간 속에서 소중한 분들께 전하고 싶었던 마음—고마움, 애정, 그리고 여전히 이어질 감정—을 가장 잘 표현해준다고 생각합니다. 슬픔을 강조하기보다는, 함께한 시간들이 아름다웠음을 조용히 일깨워주는 곡이라 제 마지막 순간을 가장 온전히 담아낼 수 있을 것 같습니다.

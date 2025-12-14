@@ -47,3 +47,19 @@ In analyzing “The Confrontation” from Jekyll & Hyde, it becomes clear that m
 4.보컬의 극단적 다이내믹 변화와 음색 전환으로 두 인격의 대립을 청각적으로 구체화함.
 
 뮤지컬 《지킬 앤 하이드》의 〈The Confrontation〉을 분석해 보면, 음악이 단순한 서사적 장치가 아니라 인물의 심리를 표현하는 핵심 매체로 작용한다는 점을 알 수 있습니다. 이러한 “음악을 통한 심리적 불안정의 표현”을 더 깊이 이해하기 위해, 유사한 기법을 사용한 다른 작품인 영화 [조커](noh-hyunwoo.md)  (2019)의 음악을 함께 비교해 볼 필요가 있습니다.음악은 스타일상 매우 다르지만—전자는 극적인 브로드웨이 넘버이고, 후자는 미니멀하고 음향적인 영화음악임에도 불구하고—심리적 붕괴와 이중성의 음악적 표현이라는 주제에서는 놀라울 만큼 유사한 접근을 보입니다.
+
+# 장례식에서 연주되길 원하는 음악
+
+[난춘（신소년）](https://youtu.be/A5ZWtVZafIs?si=TidhbfsrpyzibUv1)
+
+난춘은 청춘의 혼란, 감정의 파동, 그리고 삶의 복잡한 아름다움을 고스란히 담고 있는 작품입니다. 이 곡은 격정적이면서도 섬세한 멜로디를 통해, 한 인간이 살아가며 느끼는 기쁨·고통·갈등·성장을 모두 포괄합니다.
+
+저는 이 음악이 제 인생을 상징적으로 잘 표현한다고 느낍니다. 완벽하지 않지만 끊임없이 흔들리고, 때로는 방황하면서도 결국 자신만의 리듬을 찾아가는 과정을 닮아 있습니다. 장례식에서 이 곡이 연주된다면, 제 삶이 단순한 ‘끝’이 아니라, 복합적인 감정과 흔적으로 이어진 하나의 이야기였음을 전하고 싶습니다. 청춘의 불완전함을 끌어안는 이 곡의 분위기가, 떠나는 순간에도 저다운 인사를 건네줄 수 있을 것이라 생각합니다.
+
+# Music I wish to be played at my funeral
+
+[Disturbed Spring](https://youtu.be/A5ZWtVZafIs?si=TidhbfsrpyzibUv1)
+
+"Disturbed Spring"captures the turbulence of youth, the fluctuation of emotions, and the fragile beauty of a human life. Its passionate yet delicate melody mirrors the many layers of joy, pain, confusion, and growth that shape a person’s journey.
+
+To me, this piece reflects my life in a symbolic way—imperfect, restless, sometimes lost, yet always searching for my own rhythm. If this music were played at my funeral, I hope it could convey that my life was not simply an ending, but a story woven with complex emotions and traces of who I was. The song’s embrace of youth’s imperfections feels like a final farewell that is uniquely mine.

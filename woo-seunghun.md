@@ -27,6 +27,12 @@ The movie [Perfect Blue](bae-minseok.md), much like the game OMORI, is a work ce
 7. 12th week PBL Activity
 From bright and dreamy chiptune to dissonant and ambient sounds, it contrasts the bright dream world with the dark reality.
 
+8. 14th week PBL Activity-1
+The protagonist's journey through trauma and dissociated memories in the game OMORI exemplifies the "Chaos Narrative" discussed in Week 12, where suffering collapses the sense of time and causality, while the player engages in a form of "Auditory Anamnesis" to perceive the internal pain and existential fissures hidden beneath the distorted reality. This fragmentation of the self and the resistance against a harmonious resolution align with the "aesthetics of dissonance" found in the "Late Style" covered in Week 13, where the ultimate decision to face the painful truth mirrors Beethoven's existential question, "Muss es sein?" (Must it be?). Ultimately, the reconciliation achieved through the final musical performance embodies the Week 14 theme of "Ars longa, vita brevis," proving that art persists beyond death; by accepting death not as a figure of terror but as a "Friend" (Freund)—much like in the poem Death and the Maiden—the game completes a healing narrative where art functions as Techne, consoling the finiteness of life.
+
+8. 14th week PBL Activity-2
+At the funeral, we will be playing [음율-잠행](https://www.youtube.com/watch?v=uglu9q0Hhxo&list=RDuglu9q0Hhxo&start_radio=1). Not for any particular reason, but because it's my favorite music.
+
 <img src ="./woo-seunghun.png" alt = "description" style="width:35%"/>
 
 
@@ -49,3 +55,8 @@ From bright and dreamy chiptune to dissonant and ambient sounds, it contrasts th
 
 7. 12주차 PBL 활동
 밝고 몽환적인 칩튠애서 불협화음.앰비언트 사운드로 변화하여 밝은 꿈 속의 세계와 암울한 현실의 내용을 대비하여 표현하였다.
+
+8. 14주차 PBL 활동-1
+게임 'OMORI'의 주인공이 트라우마로 인해 겪는 기억의 해리와 시공간의 왜곡은 고통으로 인해 인과성이 무너진 **'혼돈 서사(Chaos Narrative)'**의 전형을 보여주며, 플레이어는 게임의 음악과 서사 이면에 숨겨진 **'청각적 병력청취(Auditory Anamnesis)'**를 통해 비로소 주인공의 아픔을 직면하게 됩니다. 이 과정에서 나타나는 자아의 분열과 진실에 대한 거부는 조화로운 해결보다는 파편화된 형식 그 자체를 통해 진실을 드러내는 13주차 '말년의 양식(Late Style)' 속 **'불화와 저항의 미학'**과 맞닿아 있으며, 끝내 진실을 마주하는 선택은 베토벤의 **'그래야만 하는가?(Muss es sein?)'**라는 실존적 질문에 대한 답을 찾아가는 과정과 유사합니다. 결국 주인공이 연주(Duet)를 통해 떠난 이를 기억하고 화해하는 결말은 14주차의 주제인 **'인생은 짧고 예술은 길다'**는 명제를 증명함과 동시에, 슈베르트의 가곡처럼 죽음을 공포의 대상이 아닌 **'친구'**로 받아들이며 예술(Techne)로서 삶의 유한성을 위로하는 치유의 서사를 완성합니다.
+8. 14주차 PBL 활동-2
+장레식에서는 [음율-잠행](https://www.youtube.com/watch?v=uglu9q0Hhxo&list=RDuglu9q0Hhxo&start_radio=1)을 재생할 예정입니다. 특별한 이유가 있다기보단 가장 좋아하는 음악이기 때문입니다.

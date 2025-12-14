@@ -1,7 +1,7 @@
 ---
 Title: Gombo Taryeong
-Genre: jopga
-Disease: smallpox
+Genre: Jopga
+Disease: Smallpox
 ICD: B03
 ---
 
@@ -11,11 +11,15 @@ Gombotaryeong is a song that satirizes a society obsessed with appearance by fea
 
 Gombotaryeong evokes laughter by comically portraying the marks of illness, while at the same time revealing the social prejudices behind them. This reflects the emotional wisdom of commoners in the late Joseon period, who sought to overcome discrimination and hardship through humor. The combination of the fast jajin-taryeong rhythm and the bright jingyeong-tori mode enables constant satire and exaggeration, ultimately creating an aesthetic of humor that never descends into tragedy.
 
+Gombotaryeong humorously depicts the pockmarked face of a person who has survived smallpox, thereby trivializing the disease. From the perspective of ableism discussed in Week 2, this reflects a social gaze that mocks bodies deviating from what is considered the normative standard. At the same time, the work’s unapologetic display of pockmarks aligns with the disability aesthetics introduced in Week 1, which embraces forms traditionally perceived as damaged and reframes them as not less beautiful, but potentially even more beautiful. Furthermore, the way the song transforms social prejudice and the lived experience of illness into humor resonates with the Week 5 concept of “pain sublimated through music,” revealing the power to confront and ultimately transcend suffering through artistic expression.
+
 Gombotaryeong is a song about a person whose face bears scars from smallpox, and it exposes issues of social perception and discrimination based on appearance rather than focusing on the disease itself. In a similar vein, the musical Notre-Dame de Paris also deals with a form of physical difference. The work explores the loneliness and social prejudice faced by Quasimodo, whose congenital deformities mark him with an appearance-based disability. Through bell-inspired rhythms and dissonant harmonies, the musical expresses Quasimodo’s distorted bodily image and isolated inner world. In this sense, the two works are similar in that they address social discrimination rooted in appearance. However, they differ musically. While Notre-Dame de Paris uses dissonance and grandeur to confront the protagonist’s suffering in a tragic and serious manner, Gombotaryeong takes a contrasting approach—transforming pain into humor through lively rhythms and bright melodic lines.
 
 You can listen to Gombotaryeong at the following [link](https://www.youtube.com/watch?v=gpYq0e7V3BA) It is performed by the master singer Park Sang-ok and is part of the album Huimolijapga (Huimori Japga).
 
 <img src="./kim-harin.png" alt="Pockmarked face" style="width:30%;" />
+
+The song I hope will be played at my funeral is [“Flash” (“Jumadeung”) by WOODZ](https://www.youtube.com/watch?v=gbftgRNPTx4). I do not want my funeral to be overwhelmingly heavy or filled only with sorrow; rather, I hope that the people who loved me can naturally feel their sadness without becoming consumed by it. Grieving the death of someone you love is natural and meaningful, and I want to give them the freedom to feel that sadness, but I also hope that it can coexist with warm memories instead of overwhelming the entire atmosphere. That is why I wish for “Jumadeung” to be played—so that, just as the lyrics say, I can express that I was happy because of them, and, though it may sound a bit selfish, I also want to ask them to remember me.
 
 # 곰보타령
 
@@ -23,7 +27,10 @@ You can listen to Gombotaryeong at the following [link](https://www.youtube.com/
 
 <곰보타령>은 질병의 흔적을 희화화함으로써 웃음을 자아내는 동시에 사회적 편견을 드러낸다. 이는 조선 후기 서민들이 웃음을 통해 차별과 상처를 극복하려 했던 정서적 지혜를 보여준다. 빠른 리듬의 자진타령장단과 밝은 진경토리의 조합은 끊임없는 풍자와 과장을 가능하게 하면서도 결코 비극으로 떨어지지 않는 해학의 미학을 완성한다. 
 
+<곰보타령>은 천연두 자국이 남은 곰보의 얼굴을 해학적으로 표현하며 질병을 희화화하는데, 이는 2주차에서 다룬 비장애중심주의 관점에서 정상성의 기준에서 벗어난 외모를 웃음거리로 만드는 사회적 시선을 드러낸다. 그러나 동시에 곰보의 흔적을 숨기지 않고 당당히 드러내는 태도는 1주차 장애미학에서 말한 ‘전통적 기준으로는 손상된 것처럼 보이는 아름다움을 포용하며, 그 결과 덜 아름다운 것이 아니라 오히려 더 아름답게 되는 것’을 보여주는 사례로도 읽힌다. 더 나아가 곰보에 대한 사회적 편견과 질병의 경험을 해학으로 풀어내는 방식은 5주차에서 다룬 ‘음악으로 승화된 고통’의 개념과 맞닿아 있으며, 고통을 음악으로 표현하며 그 고통을 정복해나가는 힘을 보여준다.
+
 <곰보타령>은 천연두로 얼굴에 자국이 남은 인물을 대상으로 한 노래로, 질병 자체보다는 외모로 인한 사회적 인식과 차별의 문제를 드러낸다. 이와 비슷한 맥락에서 외모적 장애를 다룬 작품으로는 뮤지컬 [노트르담 드 파리](shin-sejong.md)가 있다. 이 작품은 선천적 기형으로 인해 외모적 장애를 지닌 콰지모도의 고독과 사회적 편견을 다루며, 종소리 기반의 리듬과 불협화음을 통해 콰지모도의 왜곡된 신체이미지와 고립된 내면을 음악적으로 드러낸다. 이처럼, 외모로 인한 사회적 차별을 다룬 점에서 <곰보타령>과 유사하다고 볼 수 있다. 두 작품은 외모로 인한 차별을 다룬다는 점에서 유사하지만, 음악적인 면에서는 차이가 나타난다. <노트르담 드 파리>가 불협화음과 웅장함을 통해 주인공의 고통을 비극적이고 진지하게 직면하게 한다면, <곰보타령>은 경쾌한 장단과 밝은 선율을 사용하여 고통을 웃음으로 승화시키는 방식을 택했다는 점에서 대조적이다. 
 
 곰보타령은 다음의 [링크](https://www.youtube.com/watch?v=gpYq0e7V3BA)에서 들을 수 있다. 이는 박상옥 명창이 부른 것으로, 박상옥 <휘몰이잡가>(휘모리잡가) 음반의 한 부분이다.
 
+나의 장례식에서 연주되었으면 하는 곡은 [우즈의 <주마등](https://www.youtube.com/watch?v=gbftgRNPTx4)이다. 나는 내 장례식이 지나치게 무겁고 슬픔만 가득한 분위기가 아니라, 나를 사랑해준 사람들이 자연스럽게 슬픔을 느끼되 너무 힘들어하지는 않았으면 한다. 사랑하는 사람의 죽음을 슬퍼하는 감정은 당연하고 소중한 것이기 때문에 슬퍼할 자유를 주는 것도 당연하다고 생각하지만, 슬픔으로만 가득차기 보다는 슬픔이 자연스럽게 따뜻한 기억과 함께했으면 좋겠다. 그래서 나는 <주마등>이 장례식에서 연주되길 희망하며, 이 노래의 가사처럼 덕분에 행복했다는 말과 함께 조금은 이기적으로 들릴지는 몰라도 나를 기억해달라는 이야기를 하고 싶다.

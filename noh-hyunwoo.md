@@ -20,6 +20,12 @@ The mental confusion experienced by Arthur Fleck can be seen in the expression o
 
 <img src="./noh-hyunwoo.png" alt="Image of Schizophrenia Spectrum Disorder" style="width:30%;" />
 
+The song I hope to be played at my funeral is Maroon 5's [Memories](https://www.youtube.com/watch?v=SlPhMPnQ58k). The reason I chose Maroon 5's "Memories" as the music for my funeral is that it is the most suitable for conveying warm comfort and love to those who remain, even amidst the sorrow. Its core lyrics, such as "Cheers to the wish you were here, but you're not," carry a message that acknowledges the absence of the deceased while encouraging others to celebrate and cherish the precious time we spent together.
+
+Musically, the song samples Pachelbel's Canon in D, creating a serene and grand atmosphere that helps people quietly remember me without descending into excessive grief. I believe this song ultimately acts as a sincere request to cherish the beautiful memories of my life forever, elevating the funeral into a setting for sharing hope and reminiscence.
+
+In conclusion, "Memories" will transform the funeral from a simple farewell into a place for sharing gratitude for a life lived and the hope of keeping those beautiful memories alive. I feel this song is the most genuine and heartfelt farewell, symbolizing that the departed lives on through memory and wishing those who remain the strength to move forward through those recollections, which is why I hope it is played at my own funeral.
+
 # 조커(Joker)
 
 힐뒤르 그뷔드나도티르(Hildur Guðnadóttir, 1982–)가 작곡한 [Bathroom Dance](https://www.youtube.com/watch?v=VdfgiEQeceM)는 아서 플렉이 지하철에서 처음으로 살인을 저지른 직후, 허름한 공중 화장실에서 스스로 해방감을 느끼며 춤을 추는 장면에 사용된 오리지널 스코어입니다. 이 곡은 영화 전반에 흐르는 주된 첼로 선율 모티프를 바탕으로 하며, 아서가 처음으로 자신만의 통제력을 얻었다고 느끼는 혼란과 격변의 순간을 청각적으로 포착합니다. 이 음악은 아서의 정신 질환 및 통제 불가능한 웃음이라는 '장애'의 본질을 깊이 있게 묘사하는 핵심적인 장치로 작동합니다.
@@ -31,3 +37,9 @@ The mental confusion experienced by Arthur Fleck can be seen in the expression o
 이처럼 가공된 사운드 디자인은 그의 고통이 단순한 슬픔을 넘어, 이제 사회적 폭력으로 변이되는 순간의 불안정한 균형을 청각적으로 포착합니다. 느리고 기괴한 이 선율은 아서가 사회적 기대에서 완전히 벗어나 광기라는 새로운 형태의 '자아'를 형성하는 과정을 보여주며, 장애가 사회와 상호작용하여 어떻게 '괴물'이라는 또 다른 질병으로 발전하는지 심층적으로 청각화하는 서사적 결론을 제시합니다.
 
 아서 플렉이 겪는 정신적 혼란은 드라마 [킬 미 힐 미](han-junryul.md)에서 해리성 정체감 장애를 겪는 인물의 혼란스러운 내면을 표현 것에서도 볼 수 있습니다. 본 드라마에서 환청을 통해 현실과 상상 경계를 뚜렷하게 구분짓지 못하게 만들며, 자신조차 통제할 수 없는 내면을 보여주었는데 이는 아서 플렉이 보여주는 환각과 환청으로부터 발생되는 충동적인 살인과 밀접한 관련성이 있습니다.
+
+제 장례식에서 연주되길 희망하는 음악은 Maroon5의 [Memories](https://www.youtube.com/watch?v=SlPhMPnQ58k)입니다. Maroon 5의 "Memories"를 장례식 음악으로 고른 이유는, 이 곡이 슬픔 속에서도 남은 이들에게 따뜻한 위로와 사랑을 전달하는 데 가장 적합하기 때문입니다. 핵심 가사인 "Cheers to the wish you were here, but you're not"처럼, 고인의 부재를 인정하되 함께 했던 소중한 시간을 긍정하고 축복하라는 메시지를 담고 있습니다.
+
+음악적 측면에서는 파헬벨의 캐논 변주곡을 샘플링하여 평온하고 웅장한 분위기를 조성함으로써 지나친 비통함 없이 차분하게 고인을 추억하도록 돕습니다. 결국 이 노래는 고인의 삶에 대한 감사와 아름다운 기억을 영원히 간직해 달라는 진솔한 부탁이 되며 장례식을 희망과 추억을 나누는 자리로 승화시켜 준다고 생각합니다.
+
+결론적으로 "Memories"는 장례식을 단순한 작별의 장이 아닌 고인의 삶에 대한 감사와 아름다운 기억을 영원히 간직하자는 희망을 나누는 자리로 만들어줄 것입니다. 이 곡은 떠난 이는 기억 속에 영원히 살아있으며, 남은 이들이 그 기억을 통해 앞으로 나아갈 힘을 얻기를 바라는 가장 진솔하고 따뜻한 작별 인사라고 여겨져 이 곡이 제 자신의 장례식에 연주되길 희망합니다.

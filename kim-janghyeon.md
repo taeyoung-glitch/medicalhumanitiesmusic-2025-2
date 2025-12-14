@@ -15,6 +15,25 @@ One of the most celebrated depictions of disability in classical music is Ludwig
 Beethoven composed Fidelio while struggling with severe hearing loss that would soon lead to total deafness. His personal experience with suffering and perseverance deeply shaped the opera’s sound world—its sharp dynamic contrasts, moments of silence, and emotionally charged choral passages. Through these musical elements, Beethoven transforms pain into resilience and despair into triumph. For both the composer and his audience, Fidelio becomes more than a story of rescue; it is a testament to how music can offer healing and courage, illuminating the human capacity to overcome adversity and affirm freedom.
 
 This contrast is particularly evident in their musical expression. In Coda, the texture and rhythm of sound delicately portray the protagonist’s discovery of identity and emotional communication, whereas in Fidelio, powerful choral writing and dramatic orchestration majestically depict oppression, resistance, and the restoration of justice. In other words, emotional liberation arising from one’s inner world is conveyed through a subtle musical language, while the struggle for spiritual freedom against social prejudice is expressed through more heroic and dramatic musical elements. Thus, the two works reveal different forms of “liberation” within their music.
+[Beethoven- Fidelio, OP 72](https://www.youtube.com/watch?v=sm7hGCSkhTE&list=RDsm7hGCSkhTE&start_radio=1)
+
+# Music for the Funeral (Joe Hisaishi – Spring)
+
+**Lyrical and Clear Piano Melody**
+Its melody is neither monotonous nor overly emotional. Instead of intensifying sadness, it offers quiet reflection and lingering warmth, allowing the mind to settle gently. This makes it highly suitable for creating a peaceful atmosphere at a funeral.
+
+**A Music That Holds Both Loss and Healing**
+Joe Hisaishi’s characteristic use of warm modal harmony and subtle chord substitutions creates a soft progression that moves through sadness, comfort, and finally tranquility. Especially in a moment filled with grief, the piece eases sorrow naturally without exaggeration, making it ideal for a reflective farewell.
+
+**The Symbolism of “Spring”**
+The title itself signifies renewal, cycles, and rebirth. In the context of a funeral, “spring” becomes a metaphor for seeing death not as an ending, but as the beginning of a new chapter. This shift from heaviness to gentle hope is exactly the emotional transition I wish to convey to those who remain.
+
+**A Delicate Arrangement That Doesn’t Overwhelm the Space**
+Being a piano-centered piece, it doesn’t dominate the room. Without extravagant orchestration, it carries a quiet resonance that blends naturally into various settings—funeral halls, memorial spaces, and tribute videos—offering calmness rather than intensity.
+
+**Hisaishi’s Distinctive Melody That Touches Memory**
+His music often evokes themes of time, memories, farewells, and growth. Spring begins with a motif that gently leads listeners to recall a person’s life, making it especially fitting for moments of parting.
+[Joe Hisaishi - Spring](https://www.youtube.com/watch?v=_7jTnc-LUg0&list=RD_7jTnc-LUg0&start_radio=1)
 
 # 피델리오(*Fidelio)
 
@@ -36,3 +55,20 @@ This contrast is particularly evident in their musical expression. In Coda, the 
 <img src="./kim-janghyeon.png" alt="Beethoven's hearing loss" style="width:45%;" />
 
 
+# 장례식 음악에 들어갈 음악(히사이시 조- spring)
+
+**서정적이고 맑은 피아노 선율**
+단조롭지 않으면서도 과도하게 감정적이지 않은 선율 덕분에 슬픔을 자극하는 곡이 아니라 조용한 회상과 여운을 주는 음악이라 마음을 편안하게 가라앉혀 주는 느낌을 줘 편안한 장례식에 좋을 것 같다.
+
+**상실과 치유가 모두 담겨 있는 음악**
+히사이시 조의 특징인 따뜻한 Modal Harmony과 대리화음(substitution)을 활용한 부드러운 전조가 반복되면서 슬픔 → 위로 → 다시 평온으로 이어지는 감정선을 만들어낸다. 특히 슬픈 장례식에서 비탄을 과장하지 않고, 자연스럽게 해소한다는 측면에서 매우 좋을 것 같다.
+
+**봄(Spring)’이라는 상징성**
+제목 자체가 새로운 시작, 순환, 재생을 의미함. 장례식에서 ‘봄’은 죽음을 끝이 아니라 새로운 단계의 시작으로 바라보게 하는 은유적 메시지가 되는데 무겁기만한 추모가 아니라, 남은 사람들이 삶을 이어갈 수 있게 하는 정서적 전환점이 되는데 이것을 나는 원한다.
+
+**공간을 가득 채우지 않는 잔잔한 편곡**
+피아노 중심이라 공간을 과도하게 압도하지 않고, 화려한 오케스트레이션이 아니라 ‘고요함 속에서 오는 울림’이기 때문에 장례식장, 추모관, 영상 배경음 등 다양한 상황에 잘 스며들 것 같다.
+
+**히사이시 조 특유의 ‘기억을 건드리는 멜로디’**
+그의 곡들은 시간, 추억, 떠남, 성장 같은 테마와 자연스럽게 연결되고, 첫 구절에서부터누군가의 삶을 천천히 떠올리게 하는 구조라서 작별의 순간에 특히 잘 어울릴 것 같다.
+[히사이시 조 - Spring](https://www.youtube.com/watch?v=_7jTnc-LUg0&list=RD_7jTnc-LUg0&start_radio=1)

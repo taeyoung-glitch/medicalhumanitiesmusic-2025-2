@@ -17,6 +17,10 @@ The structural arc of Rachmaninoff’s music—dark low registers and unstable h
 
 Additionally, another film that deals with PTSD, similar to The Pianist, is Leave No Trace.
 
+The music I hope will be played at my funeral is [Merry Christmas Mr. Lawrence](https://www.youtube.com/watch?v=1OZDaRhHHyM&list=RD1OZDaRhHHyM&start_radio=1). The reason is that when I listen to it, it feels strangely sorrowful yet deeply moving. It’s also one of my all-time favorite pieces.
+
+In Week 10, we learned about the proper posture required for pianists. In The Pianist, the protagonist also places his hands on the keyboard in an attempt to prove that he is still a pianist. However, due to severe physical weakness, his fingers begin to tremble. The lecture discussed various correction tools and finger-strengthening devices used to support proper playing posture, and these topics reminded me of the protagonist’s condition. This also made me question whether tremors caused by psychological trauma could truly be resolved through physical tools alone. The key question in Week 12 was: “Can we hear a composer’s suffering and illness through their music?” This immediately brought the protagonist to mind. In the film, he sublimates his PTSD through the act of playing the piano. Watching this scene, viewers can sense the restoration of his humanity. Therefore, I began to think that we can indeed perceive the suffering and illness of composers through their music, and further understand the deeper meanings they attempt to convey—such as emotional transcendence. One of the major questions in Week 13 asks: “How can we justify the desire to ‘listen to’ an artist’s suffering? Is our fascination with late style truly about the art, or about the pain behind it?” Through my analysis of The Pianist, I believe that this desire can be justified. By witnessing the protagonist’s pain and the way he transforms it into music, we are able to experience a shared sense of human dignity. Moreover, I think that our interest in late style is rooted more in the art itself rather than in the suffering. When we watch The Pianist, what we anticipate is not his pain, but his overcoming of that pain through artistic expression. From these reflections, I arrived at my conclusion.
+
 <img src="./park-jeongeun.png" alt="Abstract image of PTSD" style="width:35%;" />
 
 # 피아니스트
@@ -29,3 +33,7 @@ Additionally, another film that deals with PTSD, similar to The Pianist, is Leav
 라흐마니노프 음악의 무거운 저음·불안한 화성 → 급격한 고조 → 안정된 흐름이라는 구조는 The Pianist 속 슈필만의 심리와 자연스럽게 맞물립니다. 초반의 불안정한 선율은 그의 공포와 PTSD의 혼란을 반영하고, 점차 고조되는 다이내믹은 생존을 위한 극도의 긴장을 드러냅니다. 마지막의 안정된 화성은 피아노 연주를 통해 인간적 존엄을 회복하는 순간과 대응하며, 그의 감정 회복 과정을 음악적으로 보여줍니다.
 
 추가적으로 피아니스와 같이 PTSD를 다룬 영화의 예로는 Leave No Trace가 있습니다.
+
+저의 장례식에서 연주되길 희망하는 음악은 [Merry Christmas Mr. Lawrence](https://www.youtube.com/watch?v=1OZDaRhHHyM&list=RD1OZDaRhHHyM&start_radio=1)입니다. 그 이유는 들었을 때 묘하게 슬프면서도 마음에 울림을 주기 때문입니다. 제가 정말 좋아하는 음악이기도 하기 때문입니다. 
+
+수업과 관련된 내용으로는 10주차에 피아니스트의 올바른 자세에 대한 내용이 나옵니다. 영화의 주인공 또한 피아니스트로서 자신이 피아니스트를 증명하기 위해 건반에 손을 올립니다. 그러나 쇠약함으로 인해 손가락이 경련을 일으킵니다. 강의 내용에서는 올바른 자세를 위한 교정 도구, 손가락 강화 도구가 언급되는 데 그를 통해 영화 주인공이 떠올랐습니다. 과연 주인공의 정신적인 문제로 동반되는 경련이 물리적인 도구로 해결될지에 대한 의문이 생기기도 했습니다. 12주차의 핵심은 우리가 작곡가의 고통과 질병을 음악을 통해 들을 수 있는가?입니다. 저는 이를 통해 주인공이 떠올랐습니다. 주인공은 PTSD를 피아노(음악) 통해 승화합니다. 이 장면을 보고 시청자들은 그의 인간성의 회복을 느낄 수 있습니다. 따라서 우리는 작곡가의 고통과 질병을 음악을 통해 느끼고, 나아가 작곡가가 전달하는 의미(승화 등) 이해할 수 있을 것이라는 생각이 들었습니다. 13주차의 질문 중 하나를 보면 우리는 예술가의 고통을 ‘듣고 싶어 하는’ 욕망을 어떻게 정당화할 수 있는가? 말년 양식에 대한 관심은 예술에 대한 것인가, 고통에 대한 것인가?에 대한 것이 있습니다. 저는 더 피아니스트를 분석하며 고통을 듣고 싶어 하는 욕망을 정당화할 수 있다고 생각합니다. 우리는 그 고통을 보며 음악으로 승화하는 것을 통해 인간의 존엄을 다 같이 느낄 수 있습니다. 또한 말년 양식에 대한 관심은 고통보다는 예술에 대한 것인 것 같습니다. 우리가 더 피아니스트를 볼 때 기대하는 것은 피아니스트의 고통이 아닌 예술을 통한 고통의 극복입니다. 그러므로 저는 이로부터 결론을 도출해 보았습니다.
