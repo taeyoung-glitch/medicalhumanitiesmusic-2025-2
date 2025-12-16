@@ -7,7 +7,6 @@ ICD : M40,Q75.9
 ---
 
 
-<img src="./tae-young.png" alt="Abstrach image of Kyphosis" style="width:25%;" />
 # The Hunchback of Notre Dame(1996)
 
 Disney’s “The Hunchback of Notre Dame” song [“Out There”](https://youtu.be/jdIP2xmDqx0?si=WNXcH4_kSJyX5XiU) musically contrasts two central aspects of Quasimodo’s character: his disability and his yearning for freedom. Through shifts in key, timbre, and rhythm, the piece portrays two opposing emotions — despair trapped within prejudice and hope reaching toward liberation.
@@ -22,9 +21,9 @@ Another work that deals with facial deformity, [The Man Who Laughs](kim-seonghwi
 
 
 # The song I wish to be played at my funeral
-I want the song “Isn’t She Lovely” (https://www.youtube.com/watch?v=oE56g61mW44) to be played at my funeral. It has always been my favorite song, and I hope that when it plays, it leaves people with bright and warm memories of my life. I want those who attend my funeral to remember my cheerful personality and the fact that I carried only joyful memories from this world. I also hope that my funeral will not be a place filled solely with sadness, but one where smiles and laughter can exist as well. And because the warmth of the lyrics and the lively melody seem to convey love and gratitude even in the final moments, I chose “Isn’t She Lovely.”
+I want the song [“Isn’t She Lovely”](https://www.youtube.com/watch?v=oE56g61mW44) to be played at my funeral. It has always been my favorite song, and I hope that when it plays, it leaves people with bright and warm memories of my life. I want those who attend my funeral to remember my cheerful personality and the fact that I carried only joyful memories from this world. I also hope that my funeral will not be a place filled solely with sadness, but one where smiles and laughter can exist as well. And because the warmth of the lyrics and the lively melody seem to convey love and gratitude even in the final moments, I chose “Isn’t She Lovely.”
 
-
+<img src="./tae-young.png" alt="Abstrach image of Kyphosis" style="width:25%;" />
 
 # 노틀담의 꼽추(1996)
 
@@ -36,4 +35,4 @@ I want the song “Isn’t She Lovely” (https://www.youtube.com/watch?v=oE56g6
 
 
 # 나의 장례식에서 연주 되길 희망하는 곡
-나의 장례식장에서 나오길 원하는 곡은 <Isn’t She Lovely>((https://www.youtube.com/watch?v=oE56g61mW44)이다. 원래부터 가장 좋아하는 곡이고, 이 음악이 흘러나오면 내 삶을 떠올리는 사람들에게 밝고 따뜻한 기억만 남기고 싶다. 나의 밝은 성격과 내가 이세상에서 살아갈 때 밝은 기억만 갖고 갔다는 것을 내 장례식장에 온 사람들이 기억해주었으면 좋겠고, 내 장례식에서 사람들이 우울하고 슬프게만 있는 것이 아니라 웃음이 가득한 장례식이 되길 바란다. 또한 가사의 따스함과 경쾌한 멜로디가 마지막 순간까지도 사랑과 감사의 분위기를 전해줄 것 같기에 나는 'Isn't she lovely'를 선곡했다.
+나의 장례식장에서 나오길 원하는 곡은 [<Isn’t She Lovely>](https://www.youtube.com/watch?v=oE56g61mW44)이다. 원래부터 가장 좋아하는 곡이고, 이 음악이 흘러나오면 내 삶을 떠올리는 사람들에게 밝고 따뜻한 기억만 남기고 싶다. 나의 밝은 성격과 내가 이세상에서 살아갈 때 밝은 기억만 갖고 갔다는 것을 내 장례식장에 온 사람들이 기억해주었으면 좋겠고, 내 장례식에서 사람들이 우울하고 슬프게만 있는 것이 아니라 웃음이 가득한 장례식이 되길 바란다. 또한 가사의 따스함과 경쾌한 멜로디가 마지막 순간까지도 사랑과 감사의 분위기를 전해줄 것 같기에 나는 'Isn't she lovely'를 선곡했다.
